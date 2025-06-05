@@ -11,16 +11,6 @@ Investigar um problema de segurança identificado em um site corporativo, utiliz
 - As evidências nos registros de tráfego de rede
 - Medidas de mitigação para evitar futuras interrupções
 
-## 📂 Estrutura do Repositório
-
-├── README.md
-
-├── relatorio_incidente_preenchido.pdf # Relatório técnico (preenchido)
-
-├── Wireshark_TCP_HTTP_log.pdf # Log capturado do tráfego TCP/HTTP
-
-├── como_ler_log_wireshark.pdf # Guia de leitura dos logs
-
 
 ## 🧠 O que foi aprendido
 
